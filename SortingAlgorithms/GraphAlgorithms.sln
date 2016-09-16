@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MinimumCutForGraph", "SortingAlgorithms\MinimumCutForGraph.pyproj", "{F4BD285C-F09B-4AB1-B977-7EBE3A879295}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "OtherAlgorithms", "OtherAlgorithms\OtherAlgorithms.pyproj", "{33A62FF3-7E0B-44D6-B5B3-E70204EEAAB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4BD285C-F09B-4AB1-B977-7EBE3A879295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4BD285C-F09B-4AB1-B977-7EBE3A879295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A62FF3-7E0B-44D6-B5B3-E70204EEAAB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A62FF3-7E0B-44D6-B5B3-E70204EEAAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
